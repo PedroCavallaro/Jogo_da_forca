@@ -1,17 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package forca_java;
 
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Random;
-/**
- *
- * @author Usuário a Definir
- */
+
 public class forca_funcoes {
      public static void imprimir(char vetor[]){
             System.out.println("+--------");
