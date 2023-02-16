@@ -1,20 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package forca_java;
 
-/**
- *
- * @author Usuário a Definir
- */
 import java.util.Scanner;
 import static forca_java.forca_funcoes.*;
 public class Forca_java {
 
-    /**
-     * @param args the command line arguments
-     */
     static final char vet[] = new char[16];
     static  String palavraEscolhida;
     public static void main(String[] args) {
@@ -68,8 +58,7 @@ public class Forca_java {
                 System.out.println("A palavra era:"+ palavraEscolhidaAux);
                 break;
             }
-        }
-        
+        } 
     }
     
 }
